@@ -41,7 +41,8 @@ testing....
 testing....
 <img src="http://beforebefore.net/corsecodethrowie_with toggle_switch.JPG" width="450" />
 
-<img src="http://beforebefore.net/ifonly.JPG" width="450" />
+<img src="http://beforebefore.net/ifonly2.JPG" width="450" />
+
 (Othermill can't handle these sharp lines, but hopefully will someday... this could be painted using conductive paint, or...)
 
 
