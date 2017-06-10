@@ -10,6 +10,7 @@ What's needed:
  - Lithium coin cell battery
  - perf board for circuit, or custom designed circuit
  - electrical wire
+ 
  optional:
   - toggle switch
   - 270 or 330 resistor
