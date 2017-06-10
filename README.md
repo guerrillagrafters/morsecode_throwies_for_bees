@@ -3,6 +3,17 @@ This project builds off of the original throwie by Graffiti Research Labs (www.g
 
 A lot more work could be done to make this code lighter. We welcome development!
 
+What's needed:
+ - Arduino or ATTiny programmer (Sparkfun sells one)
+ - ATTiny85 (45 okay with some adjustments)
+ - LEDs - we use Ultraviolet LEDs
+ - Lithium coin cell battery
+ - perf board for circuit, or custom designed circuit
+ - electrical wire
+ optional:
+  - toggle switch
+  - 270 or 330 resistor
+
 To begin:
 1) Make sure the Arduino programming environment is version 1.6.0 or above
 2) In Arduino> Preferences, add the David Mellis attiny to boards manager URLs
